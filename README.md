@@ -1,6 +1,6 @@
 ![Hey there, I'm Mansi 👋 I am a developer, designer, innovator, and creator.](./wide_intro.gif)
 
-## about me 
+## About Me  
 ```js
 const mansi = {
   study: "Computer Science",
