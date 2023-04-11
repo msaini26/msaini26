@@ -5,9 +5,9 @@
 const mansi = {
   study: "Computer Science",
   grad_date: "June 2024",
-  interests: ["User Experience Design", "Software Engineering"],
-  languages: ["Python", "C", "HTML", "CSS", "Unity", "Javascript"],
-  conferences_attended: ["Grace Hopper Celebration", "Women in Cybersecurity"],
+  interests: ["User Experience Design", "Software Engineering", "UX Engineering"],
+  languages: ["Python", "C/C++", "HTML", "CSS", "Javascript", "Unity"],
+  conferences_attended: ["Grace Hopper Celebration", "Women in Cybersecurity", "Google I/O"],
   status: "Working working working"
 }
 ```
