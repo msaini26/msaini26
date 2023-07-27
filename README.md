@@ -4,7 +4,7 @@
 ```js
 const mansi = {
   study: "Computer Science",
-  grad_date: "June 2024",
+  grad_date: "June 2025",
   interests: ["User Experience Design", "Software Engineering", "UX Engineering"],
   languages: ["Python", "C/C++", "HTML", "CSS", "Javascript", "Unity"],
   conferences_attended: ["Grace Hopper Celebration", "Women in Cybersecurity", "Google I/O"],
