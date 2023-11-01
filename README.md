@@ -7,7 +7,7 @@ const mansi = {
   grad_date: "June 2025",
   interests: ["User Experience Design", "Software Engineering", "UX Engineering"],
   languages: ["Python", "Javascript", "Hack", "C/C++", "HTML", "CSS", "Unity"],
-  conferences: ["Grace Hopper Celebration", "Women in Cybersecurity", "Google Cloud Next ’23", "AWS re:Invent", "Google I/O"],
+  conferences: ["Grace Hopper Celebration", "Women in Cybersecurity", "Google Cloud Next", "AWS re:Invent", "Google I/O"],
   status: "exploring something or somewhere new"
 }
 ```
