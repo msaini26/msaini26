@@ -2,9 +2,7 @@
 
 ## About Me 👩🏽‍💻
 ```js
-const mansi = {
-  study: "Computer Science",
-  grad_date: "June 2025",
+const mansi = {,
   interests: ["User Experience Design", "Software Engineering", "UX Engineering"],
   languages: ["Python", "Javascript", "Hack", "C/C++", "HTML", "CSS", "Unity"],
   conferences: ["Grace Hopper Celebration", "Women in Cybersecurity", "Google Cloud Next", "AWS re:Invent", "Google I/O"],
