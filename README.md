@@ -9,4 +9,3 @@ const mansi = {,
   status: "exploring something or somewhere new"
 }
 ```
-![visitors](https://visitor-badge.glitch.me/badge?page_id=msaini26.readme-visitors&left_color=blue&right_color=green)
