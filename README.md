@@ -5,7 +5,6 @@
 const mansi = {,
   interests: ["UX Engineering", "Software Engineering", "User Experience Design"],
   languages: ["Javascript", "Python", "Hack", "C/C++", "HTML", "CSS", "Unity"],
-  conferences: ["Grace Hopper Celebration", "Women in Cybersecurity", "Google Cloud Next", "AWS re:Invent", "Google I/O"],
   status: "exploring something or somewhere new"
 }
 ```
