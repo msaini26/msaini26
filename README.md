@@ -2,7 +2,7 @@
 
 ## About Me 👩🏽‍💻
 ```js
-const mansi = {,
+const mansi = {
   interests: ["UX Engineering", "Software Engineering", "User Experience Design"],
   languages: ["Javascript", "Python", "Hack", "C/C++", "HTML", "CSS", "Unity"],
   status: "exploring something or somewhere new"
