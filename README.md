@@ -3,8 +3,8 @@
 ## About Me 👩🏽‍💻
 ```js
 const mansi = {,
-  interests: ["User Experience Design", "Software Engineering", "UX Engineering"],
-  languages: ["Python", "Javascript", "Hack", "C/C++", "HTML", "CSS", "Unity"],
+  interests: ["UX Engineering", "Software Engineering", "User Experience Design"],
+  languages: ["Javascript", "Python", "Hack", "C/C++", "HTML", "CSS", "Unity"],
   conferences: ["Grace Hopper Celebration", "Women in Cybersecurity", "Google Cloud Next", "AWS re:Invent", "Google I/O"],
   status: "exploring something or somewhere new"
 }
