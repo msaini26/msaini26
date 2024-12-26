@@ -4,7 +4,7 @@
 ```js
 const mansi = {
   interests: ["UX Engineering", "Frontend Development", "Game Development", "Software Engineering", "User Experience Design"],
-  languages: ["Javascript", "Python", "Hack", "C/C++", "HTML", "CSS", "Unity"],
+  tools: ["Typescript", "React", "Javascript", "Python", "Hack", "C/C++", "HTML", "CSS"],
   status: "exploring something or somewhere new"
 }
 ```
