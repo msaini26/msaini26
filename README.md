@@ -2,9 +2,9 @@
 
 ## About Me 👩🏽‍💻
 ```js
-const mansi = {
-  interests: ["UX Engineering", "Frontend Development", "Game Development", "Software Engineering", "User Experience Design"],
-  tools: ["Typescript", "React", "Javascript", "Python", "Hack", "C/C++", "HTML", "CSS"],
-  status: "exploring something or somewhere new"
+var mansi = {
+  "interests": ["UX Engineering", "Frontend Development", "Game Development", "Software Engineering", "User Experience Design"],
+  "tools": ["Typescript", "React", "Javascript", "Python", "Hack", "C/C++", "HTML", "CSS"],
+  "status": "exploring something or somewhere new"
 }
 ```
