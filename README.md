@@ -4,7 +4,7 @@
 ```js
 var mansi = {
   "interests": ["UX Engineering", "Frontend Development", "Game Development", "Software Engineering", "User Experience Design"],
-  "tools": ["Typescript", "React", "Javascript", "Python", "Hack", "C/C++", "HTML", "CSS"],
+  "tools": ["Typescript", "React", "Javascript", "AngularJS", "Python", "Hack", "C/C++", "HTML", "CSS"],
   "status": "exploring something or somewhere new"
 }
 ```
