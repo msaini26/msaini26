@@ -3,7 +3,7 @@
 ## About Me 👩🏽‍💻
 ```js
 var mansi = {
-  "interests": ["UX Engineering", "Frontend Development", "Game Development", "Software Engineering", "User Experience Design"],
+  "interests": ["UX Engineering", "Frontend Development", "Game Development", "Software Engineering", "Product Design", "User Experience Design"],
   "tools": ["Typescript", "React", "Javascript", "AngularJS", "Python", "Hack", "C/C++", "HTML", "CSS"],
   "status": "exploring something or somewhere new"
 }
